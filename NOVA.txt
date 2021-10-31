@@ -1,0 +1,32 @@
+
+<!doctype html5>
+<html>
+<head>
+	<title>E commerce Websites (INTER DOCUMENT LINKS) </title>
+	<LINK REL="STYLESHEET" HREF="sty_ext.CSS" />
+</head>
+<body>
+	<H1>NOVA-SMART-HOME</H1>
+	<MARQUEE behavior="alternate" > .......... 3D ANIMATED MICROSITE......
+	....</MARQUEE> <BR/>
+	<CENTER>
+	<IMG SRC="NOVA-SMART-HOME.png" WIDTH="500" /> </CENTER>
+	
+	<P>
+		This Icelandic telecommunications company has a one-of-a-kind microsite
+		dedicated to its smart home devices. By using an animated 3D house model, 
+		it becomes an interactive product demonstration website for Nova’s products.</P>
+
+	<P>	After selecting a product category from the top navigation bar, the page will
+		show you where the item is used in the house. When clicked, the website displays
+		a range of innovative home products to choose from in that category. </P>
+
+	<P> Though this microsite is best viewed on desktop screens, the website design trans		
+		lates well to mobile devices. The top navigation bar transforms into a handy 
+		hamburger menu, and the buttons remain visible. </P>
+
+	<footer>
+	<A HREF="BBA_Lab2_Home.HTML"><IMG SRC="HOME.GIF" WIDTH=150 /></A>
+	</footer>
+</body>
+</html>

@@ -1,0 +1,30 @@
+
+<!doctype html5>
+<html>
+<head>
+	<title>E commerce Websites (INTER DOCUMENT LINKS) </title>
+	<LINK REL="STYLESHEET" HREF="sty_ext.CSS" />
+</head>
+<body>
+	<H1>AMAZON</H1>
+	<MARQUEE behavior="alternate" > .......... APNI DUKAAN......
+	....</MARQUEE> <BR/>
+	<CENTER>
+	<IMG SRC="Amazon.png" WIDTH="500" /> </CENTER>
+	
+	<P>
+		Amazon is a good example of how a good eCommerce store should look, 
+		as its user-friendly website design instantly makes it easy for customers 
+		to find what they need.To speed up the shopping experience, visitors can 
+		use the on-site search engine to look for their desired items, with the 
+		multiple filtering options also helping to show the most relevant products.
+		<P>Despite having millions of products in its marketplace, Amazon does 
+		a great job of simplifying its interface. For instance, all product 
+		category pages are hidden in the sidebar hamburger menu.</P>
+		<P>This way, users don’t feel overwhelmed by the abundance of options,
+ 		making the online selling site easy to navigate. </P>
+	<footer>
+	<A HREF="BBA_Lab2_Home.HTML"><IMG SRC="HOME.GIF" WIDTH=150 /></A>
+	</footer>
+</body>
+</html>

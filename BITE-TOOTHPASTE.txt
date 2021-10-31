@@ -1,0 +1,33 @@
+
+<!doctype html5>
+<html>
+<head>
+	<title>E commerce Websites (INTER DOCUMENT LINKS) </title>
+	<LINK REL="STYLESHEET" HREF="sty_ext.CSS" />
+</head>
+<body>
+	<H1>NOVA-SMART-HOME</H1>
+	<MARQUEE behavior="alternate" > .......... MEET YOUR ROUTINE, REINVENTED......
+	....</MARQUEE> <BR/>
+	<CENTER>
+	<IMG SRC="BITE-TOOTHPASTE-BITS.png" WIDTH="500" /> </CENTER>
+	
+	<P>
+		Bite’s online shop is one of the best examples of an effective eCommerce
+		business website. The beautifully designed homepage grabs the visitors’ attention
+		and perfectly communicates why their all-natural toothpaste is worth purchasing.</P>
+	<P>
+		For instance, it has a testimonial slider with quotes from noteworthy publications.
+		Near the bottom of the page, you can find a collection of customer reviews as well.</P>
+
+	<P>	The homepage answers essential questions about the product, such as its benefits 
+		and how to use it efficiently. It also features several hero shots for demonstration.</P>
+
+	<P>	All of these elements work together to eliminate potential obstacles in the customer
+		journey. As a result, visitors should feel more confident about making a transaction. </P>
+
+	<footer>
+	<A HREF="BBA_Lab2_Home.HTML"><IMG SRC="HOME.GIF" WIDTH=150 /></A>
+	</footer>
+</body>
+</html>

@@ -1,0 +1,39 @@
+
+<!doctype html5>
+<html>
+<head>
+	<title>Ecommerce Websites</title>
+	<LINK REL="STYLESHEET" HREF="sty_ext.CSS" />
+</head>
+<body>
+	<H1> Examples of eCommerce Websites With Fantastic Designs<BR> (TO ILLUSTRATE INTERDOCUMENT LINKS) </H1>
+	<MARQUEE behavior="ALTERNATE"> .......... Experiance new shopping through E Commerce.......
+	...</MARQUEE>
+	<H3>INTER DOCUMENT LINKS</H3>
+	<CENTER><IMG SRC="Ecommerce.png" WIDTH="500" /> </CENTER>
+	<section>
+	<P> Design is one of the factors that significantly contribute to the success
+	of an eCommerce website. In fact, 75% of people judge the credibility of 
+	a business based on how its website looks, and six out of 10 people consider 
+	website usability very important when shopping online.
+	No matter how excellent a product is, if the eCommerce website looks bad 
+	and is hard to use, any business will struggle to get conversions. 
+	Therefore, we’ve compiled the 25 best examples of outstanding eCommerce 
+	website designs to inspire you. </P>
+	</section>
+	<H1> SELECT ANY E-SHOP 
+	<UL>
+		<li><A HREF="AMAZON.HTML"> AMAZON</A> </li>
+		<li><A HREF="NOVA.HTML"> NOVA-SMART-HOME</A></li>
+		<li><A HREF="WELLY.HTML"> WELLY</A></li>
+		<li><A HREF="BITE-TOOTHPASTE.HTML"> BITE-TOOTHPASTE-BITS</A>
+	<BR>
+	</UL>
+	</H1>
+		<footer>
+		<H3>
+			<a href= "mailto: ssbnprins@gmailcom">Feedback</a> </H3>
+		<H4>CopyRights @ SSBN DEGREE COLLEGE, ANANTAPURAMU</H4>
+	</footer>
+</body>
+</html>

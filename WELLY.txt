@@ -1,0 +1,36 @@
+
+<!doctype html5>
+<html>
+<head>
+	<title>E commerce Websites (INTER DOCUMENT LINKS) </title>
+	<LINK REL="STYLESHEET" HREF="sty_ext.CSS" />
+</head>
+<body>
+	<H1>NOVA-SMART-HOME</H1>
+	<MARQUEE behavior="alternate" > .......... HANDY, DANDY HUMAN BODY FIXER UPPERS......
+	....</MARQUEE> <BR/>
+	<CENTER>
+	<IMG SRC="WELLY.png" WIDTH="500" /> </CENTER>
+	
+	<P>
+		If you want to make a minimalistic online store, consider Welly for your
+		inspiration.This US-based first aid brand has a modern eCommerce website 
+		design, putting its products at the center stage.</P>
+
+	<P> The interface is simple and clean with tons of white space. A well-implemented
+		typographic hierarchy improves the website’s readability, making it easy for
+		customers to understand what the business is about. </P>
+
+	<P>	Another standout feature is the color palette – the website primarily uses 
+		white for the background and green for text, while orange serves as the accent color. </P>
+
+	<P>	This color combination helps direct the users’ eyes to essential elements
+		like call-to-action (CTA) buttons. This is an excellent practice to improve 
+		your conversion rates. 
+		 </P>
+
+	<footer>
+	<A HREF="BBA_Lab2_Home.HTML"><IMG SRC="HOME.GIF" WIDTH=150 /></A>
+	</footer>
+</body>
+</html>
